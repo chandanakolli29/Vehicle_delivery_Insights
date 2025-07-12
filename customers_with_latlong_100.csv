@@ -1,0 +1,101 @@
+customer_id,city,state,address,location_lat,location_long
+1,San Jose,CA,"San Jose, CA",37.332386,-121.895203
+2,Phoenix,AZ,"Phoenix, AZ",33.461008,-112.065293
+3,Houston,TX,"Houston, TX",29.747902,-95.364074
+4,San Antonio,TX,"San Antonio, TX",29.399657,-98.510305
+5,Phoenix,AZ,"Phoenix, AZ",33.43495,-112.048748
+6,New York,NY,"New York, NY",40.715479,-73.995506
+7,San Jose,CA,"San Jose, CA",37.341192,-121.874357
+8,Houston,TX,"Houston, TX",29.736545,-95.363798
+9,Phoenix,AZ,"Phoenix, AZ",33.461561,-112.057181
+10,Dallas,TX,"Dallas, TX",32.761458,-96.782098
+11,New York,NY,"New York, NY",40.742408,-73.979785
+12,Chicago,IL,"Chicago, IL",41.859147,-87.634849
+13,San Antonio,TX,"San Antonio, TX",29.44719,-98.518183
+14,Philadelphia,PA,"Philadelphia, PA",39.971527,-75.156634
+15,Chicago,IL,"Chicago, IL",41.860851,-87.648834
+16,San Antonio,TX,"San Antonio, TX",29.43293,-98.499426
+17,Los Angeles,CA,"Los Angeles, CA",34.058906,-118.218887
+18,Houston,TX,"Houston, TX",29.763955,-95.372982
+19,Dallas,TX,"Dallas, TX",32.768164,-96.768921
+20,Los Angeles,CA,"Los Angeles, CA",34.076227,-118.223047
+21,New York,NY,"New York, NY",40.693302,-74.028247
+22,Chicago,IL,"Chicago, IL",41.897876,-87.65883
+23,San Diego,CA,"San Diego, CA",32.693059,-117.170502
+24,Chicago,IL,"Chicago, IL",41.898101,-87.656172
+25,Los Angeles,CA,"Los Angeles, CA",34.05672,-118.240017
+26,Los Angeles,CA,"Los Angeles, CA",34.038922,-118.228519
+27,San Antonio,TX,"San Antonio, TX",29.437151,-98.495358
+28,New York,NY,"New York, NY",40.703226,-73.993566
+29,Phoenix,AZ,"Phoenix, AZ",33.421767,-112.096144
+30,New York,NY,"New York, NY",40.729777,-74.01173
+31,San Diego,CA,"San Diego, CA",32.693242,-117.157849
+32,Phoenix,AZ,"Phoenix, AZ",33.42801,-112.05619
+33,New York,NY,"New York, NY",40.716305,-74.027071
+34,Dallas,TX,"Dallas, TX",32.754614,-96.78653
+35,Chicago,IL,"Chicago, IL",41.903729,-87.657367
+36,Houston,TX,"Houston, TX",29.738897,-95.356889
+37,San Jose,CA,"San Jose, CA",37.356818,-121.867945
+38,Phoenix,AZ,"Phoenix, AZ",33.458582,-112.092182
+39,Los Angeles,CA,"Los Angeles, CA",34.035014,-118.238916
+40,Phoenix,AZ,"Phoenix, AZ",33.429499,-112.080293
+41,Los Angeles,CA,"Los Angeles, CA",34.053179,-118.260272
+42,Los Angeles,CA,"Los Angeles, CA",34.0793,-118.235125
+43,Phoenix,AZ,"Phoenix, AZ",33.450999,-112.090959
+44,Chicago,IL,"Chicago, IL",41.873,-87.646482
+45,San Antonio,TX,"San Antonio, TX",29.437362,-98.500131
+46,Dallas,TX,"Dallas, TX",32.751026,-96.793129
+47,Los Angeles,CA,"Los Angeles, CA",34.04274,-118.237127
+48,Philadelphia,PA,"Philadelphia, PA",39.974857,-75.135245
+49,San Antonio,TX,"San Antonio, TX",29.420172,-98.476274
+50,San Diego,CA,"San Diego, CA",32.708249,-117.147876
+51,San Antonio,TX,"San Antonio, TX",29.436457,-98.496084
+52,Houston,TX,"Houston, TX",29.737764,-95.36861
+53,Phoenix,AZ,"Phoenix, AZ",33.468402,-112.047463
+54,New York,NY,"New York, NY",40.724537,-74.02289
+55,Philadelphia,PA,"Philadelphia, PA",39.966091,-75.185358
+56,Phoenix,AZ,"Phoenix, AZ",33.458221,-112.089588
+57,New York,NY,"New York, NY",40.727191,-73.979037
+58,San Antonio,TX,"San Antonio, TX",29.45034,-98.48547
+59,San Diego,CA,"San Diego, CA",32.708582,-117.18422
+60,Chicago,IL,"Chicago, IL",41.877454,-87.620516
+61,Chicago,IL,"Chicago, IL",41.871729,-87.619037
+62,Houston,TX,"Houston, TX",29.748064,-95.386446
+63,Houston,TX,"Houston, TX",29.777342,-95.374201
+64,San Diego,CA,"San Diego, CA",32.701658,-117.190122
+65,Chicago,IL,"Chicago, IL",41.861935,-87.652366
+66,San Jose,CA,"San Jose, CA",37.353553,-121.883821
+67,San Diego,CA,"San Diego, CA",32.691944,-117.145638
+68,Los Angeles,CA,"Los Angeles, CA",34.024652,-118.252335
+69,New York,NY,"New York, NY",40.72205,-74.024411
+70,Houston,TX,"Houston, TX",29.785048,-95.390164
+71,San Antonio,TX,"San Antonio, TX",29.425828,-98.508163
+72,Chicago,IL,"Chicago, IL",41.882528,-87.648306
+73,Philadelphia,PA,"Philadelphia, PA",39.957163,-75.143726
+74,San Diego,CA,"San Diego, CA",32.727793,-117.176838
+75,Chicago,IL,"Chicago, IL",41.867502,-87.634911
+76,Phoenix,AZ,"Phoenix, AZ",33.47204,-112.046516
+77,San Antonio,TX,"San Antonio, TX",29.420195,-98.492602
+78,Los Angeles,CA,"Los Angeles, CA",34.03,-118.267566
+79,Phoenix,AZ,"Phoenix, AZ",33.420123,-112.048692
+80,San Diego,CA,"San Diego, CA",32.742034,-117.165291
+81,Philadelphia,PA,"Philadelphia, PA",39.944873,-75.187668
+82,Chicago,IL,"Chicago, IL",41.87305,-87.641626
+83,San Antonio,TX,"San Antonio, TX",29.448583,-98.480587
+84,Phoenix,AZ,"Phoenix, AZ",33.433299,-112.048131
+85,Houston,TX,"Houston, TX",29.756635,-95.372143
+86,Los Angeles,CA,"Los Angeles, CA",34.080825,-118.272273
+87,Philadelphia,PA,"Philadelphia, PA",39.978111,-75.144898
+88,Dallas,TX,"Dallas, TX",32.765276,-96.818469
+89,San Antonio,TX,"San Antonio, TX",29.420889,-98.49705
+90,Los Angeles,CA,"Los Angeles, CA",34.029738,-118.227606
+91,Houston,TX,"Houston, TX",29.743558,-95.36682
+92,Dallas,TX,"Dallas, TX",32.747576,-96.772581
+93,Houston,TX,"Houston, TX",29.762625,-95.397684
+94,New York,NY,"New York, NY",40.68463,-74.018092
+95,New York,NY,"New York, NY",40.702984,-74.02827
+96,New York,NY,"New York, NY",40.708528,-74.004193
+97,San Jose,CA,"San Jose, CA",37.308977,-121.903868
+98,Dallas,TX,"Dallas, TX",32.782491,-96.802708
+99,San Antonio,TX,"San Antonio, TX",29.402566,-98.497011
+100,San Diego,CA,"San Diego, CA",32.697615,-117.181449
